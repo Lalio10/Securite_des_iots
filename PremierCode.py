@@ -25,7 +25,7 @@ appkey = rak.get_app_key()
 time.sleep(1)
 print(f'appkey={appkey}')
 
-# Configure le mode de jonction
+# configure la connexion 
 rak.set_join_mode()
 
 # Tente de rejoindre le réseau LoRaWAN
