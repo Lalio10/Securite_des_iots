@@ -5,4 +5,4 @@ premier code.py ---> Programme de Pilotage du Module LoRa RAK3172 via Port COM a
 
 deuxieme code.py ---> programme qui récupère la donnée du/des uplink du capteur automatiquement et génère un graphique de cette donnée.
 
-troisieme code.py ---> Affiche les informations, le RSSI et SNR de réception.
+troisième code.py ---> Affiche les informations, le RSSI et SNR de réception.
